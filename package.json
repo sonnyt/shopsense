@@ -1,0 +1,22 @@
+{
+  "name": "shopsense",
+  "version": "0.0.1",
+  "description": "ShopSense API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sonnyt/shopsense.git"
+  },
+  "keywords": [
+    "shopsense"
+  ],
+  "author": "Sonny T.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonnyt/shopsense/issues"
+  },
+  "homepage": "https://github.com/sonnyt/shopsense"
+}
